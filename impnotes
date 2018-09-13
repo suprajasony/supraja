@@ -1,0 +1,20 @@
+to create a repository:
+1)copy url
+2)git config --global user.name suprajasony
+3)git config --global user.email suprajareddy.dl@gmail.com
+4)ls
+5)virtualenv gitenv
+6)cd gitenv
+7)cd bin
+8)source ./activate
+9)mkdir src
+10)cd src
+11)pip3 install flask
+12)pip3 freeze
+13)copy files and save the directory
+14)git init
+15) git add sop.txt
+16)git commit -m "first commit"
+17) git remote add origin https://github.com/suprajasony/mypalace.git
+18)git push -u origin master
+19)
